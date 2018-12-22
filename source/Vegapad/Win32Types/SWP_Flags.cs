@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace Win32Types
+{
+	[Flags]
+	internal enum SWP_Flags
+	{
+		SWP_NOSIZE = 1,
+		SWP_NOMOVE = 2,
+		SWP_NOZORDER = 4,
+		SWP_NOACTIVATE = 16,
+		SWP_FRAMECHANGED = 32,
+		SWP_SHOWWINDOW = 64,
+		SWP_HIDEWINDOW = 128,
+		SWP_NOOWNERZORDER = 512,
+		SWP_DRAWFRAME = 32,
+		SWP_NOREPOSITION = 512
+	}
+}

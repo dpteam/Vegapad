@@ -1,2 +1,5 @@
-# Vegapad
-Vegapad - experimental text editor for ZDoom-based ports modding.
+# Vegapad 
+
+An experimental ZDoom-based ports text editor.
+
+Download [here](https://github.com/dpteam/Vegapad/releases)
