@@ -2,4 +2,4 @@
 
 An experimental ZDoom-based ports text editor.
 
-Download [here](https://github.com/dpteam/Vegapad/releases)
+Info [here](https://dpteam.github.com/Vegapad)
